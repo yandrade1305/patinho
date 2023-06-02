@@ -19,7 +19,7 @@
 Patinho é um desafio de programação proposto pela ZG Soluções onde deveria ser escrito a letra da música Cinco Patinhos da Xuxa conforme
 o usuário informasse um número "n".
 
-Para mais informações aqui está o <a href="https://docs.google.com/document/d/1hHJOLkphFTnXzI-2bhtlVhwujJKce7IrfIMTX31HX9g/edit">documento</a> que eles disponibilizaram
+Para mais informações aqui está o <a href="https://docs.google.com/document/d/1hHJOLkphFTnXzI-2bhtlVhwujJKce7IrfIMTX31HX9g/edit">documento</a> que eles disponibilizaram.
 ## Funcionalidades
 
 A Funcionalidade é algo bem intuitivo basta inserir um número válido entre 1 e 2.147.483.647 que a aplicação irá gerar a resposta. Porém cuidado com respostas muito grandes
