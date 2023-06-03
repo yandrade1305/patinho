@@ -44,5 +44,6 @@ public class Main {
                 Menu.imprimeOpcaoInvalida();
                 break;
         }
+        scanner.close();
     }
 }
