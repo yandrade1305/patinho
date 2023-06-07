@@ -51,7 +51,7 @@ public abstract class Menu {
     }
 
     public static void imprimeRefrao(Integer n, String s) {
-        System.out.println(s + " patinhos foram passear");
+        System.out.println(s + " patinho foram passear");
         System.out.println("Álem das montanhas");
         System.out.println("para brincar");
         System.out.println("A mamãe gritou");
